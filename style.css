@@ -48,13 +48,14 @@ nav ul li a {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://via.placeholder.com/1920x1080') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
     color: #fff;
     text-align: center;
     padding: 6rem 1rem;
     border-radius: 20px;
     margin: 1rem;
 }
+
 
 .hero h2 {
     font-size: 3rem;
