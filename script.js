@@ -1,4 +1,3 @@
 function showAlert() {
-    alert("Prepare yourself for the finest in haute-potato fashion.");
-  }
-  
+    alert('You are about to experience the DOMPOTATO lifestyle, where every detail is elevated to an absurdly high level of luxury!');
+}
